@@ -69,3 +69,13 @@ For more advanced configurations and features, refer to the [Vercel documentatio
 ### Demo
 
 Check out the deployed application: [Demo Link](https://my-react-app-drab-eight.vercel.app/)
+
+## Like This Content?
+
+If you found this guide helpful, consider starring this repository! ⭐️
+
+For more guides and content like this, follow [my GitHub profile](https://github.com/PugazharasanC).
+
+## Contributor
+
+- [Swathy S](https://github.com/Swathysuriyababu12)
