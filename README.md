@@ -1,13 +1,13 @@
 # Deploying a React App to Vercel
 
-This guide will walk you through the process of deploying a React application created with Vite to Vercel, a cloud platform for static sites and serverless functions. Vercel provides an easy and efficient way to deploy React apps with built-in features like automatic deployments and custom domains.
+This guide will walk you through the process of deploying a React application to Vercel, a cloud platform for static sites and serverless functions. Vercel provides an easy and efficient way to deploy React apps with built-in features like automatic deployments and custom domains.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following:
 
 - Node.js and npm (Node Package Manager) installed on your machine.
-- A basic understanding of React and how to create a React application with Vite.
+- A basic understanding of React and how to create a React application.
 - A Vercel account. If you don't have one, you can sign up at [vercel.com](https://vercel.com).
 
 ## Steps to Deploy
@@ -62,6 +62,10 @@ After the deployment is complete, Vercel will provide you with a URL where your 
 
 ## Conclusion
 
-Congratulations! You have successfully deployed your React application (created with Vite) to Vercel. You can now share your application with others and use Vercel's features to manage and scale your app.
+Congratulations! You have successfully deployed your React application to Vercel. You can now share your application with others and use Vercel's features to manage and scale your app.
 
 For more advanced configurations and features, refer to the [Vercel documentation](https://vercel.com/docs).
+
+### Demo
+
+Check out the deployed application: [Demo Link](https://my-react-app-drab-eight.vercel.app/)
