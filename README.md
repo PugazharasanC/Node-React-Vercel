@@ -66,7 +66,7 @@ Congratulations! You have successfully deployed your React application to Vercel
 
 For more advanced configurations and features, refer to the [Vercel documentation](https://vercel.com/docs).
 
-If you are interested in hosting a React project on Vercel, check out the guide in [this repository](https://github.com/PugazharasanC/Node-React-Vercel).
+If you are interested in hosting a Express project on Vercel, check out the guide in [this repository](https://github.com/PugazharasanC/NodeExpressVercel).
 
 ### Demo
 
